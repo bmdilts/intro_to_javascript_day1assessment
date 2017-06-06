@@ -74,7 +74,7 @@ var myNumber = 2;
 var myString = "Hi my name is...";
 var myBoolean = true;
 // This one's a little tricky - think carefully about what makes a value "undefined"!
-var myUndefined = "";
+var myUndefined = undefined;
 // A:
 
 
